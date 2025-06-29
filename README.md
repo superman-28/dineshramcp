@@ -4,9 +4,8 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Frontend+Dev;Loves+React+%26+Angular;Part-Time+Sprinter+%26+Boxer;Content+Creator+📹&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Dev;Loves+React+%26+Angular;Part-Time+Sprinter+%26+Boxer;Content+Creator+%F0%9F%93%B9" alt="Typing SVG" />
 </p>
-
 ---
 
 <!-- About Me -->
