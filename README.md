@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Hi 👋, I'm Dinesh CP</h1>
+<h1 align="center">Hi 👋, I'm Dineshram CP</h1>
 <h3 align="center">🚀 Front-End Developer | 🏃 Athlete | 🎥 Content Creator</h3>
 
 <!-- Typing Animation -->
