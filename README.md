@@ -22,7 +22,7 @@
 <!-- Portfolio -->
 ### 🌐 Portfolio
 
-🔗 Visit my portfolio at: [dineshramcp.dev](https://dineshramcp.dev)  
+🔗 Visit my portfolio at: [dineshram.dev](https://dineshram.lovable.app/)  
 _(Replace with your real portfolio link if different)_
 
 ---
@@ -30,13 +30,13 @@ _(Replace with your real portfolio link if different)_
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack
 
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 
 ---
@@ -55,9 +55,9 @@ _(Replace with your real portfolio link if different)_
 ### 📱 Connect with me
 
 <p align="left">
-  <a href="https://www.instagram.com/dineshramcp/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-@dineshramcp-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dineshramcp/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-DineshCP-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:dineshramcp@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/im_superman____" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-@dineshramcp-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dineshram-cp/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-DineshCP-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:dineshramcp28@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
