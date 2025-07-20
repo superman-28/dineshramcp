@@ -22,8 +22,7 @@
 <!-- Portfolio -->
 ### 🌐 Portfolio
 
-🔗 Visit my portfolio at: [dineshram.dev](https://dineshram.lovable.app/)  
-_(Replace with your real portfolio link if different)_
+🔗 Visit my portfolio at: [dineshram.dev](https://dineshram.lovable.app/)
 
 ---
 
